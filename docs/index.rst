@@ -6,6 +6,12 @@ Introduction
 
 In today’s digital world, managing your internet, TV, and phone services efficiently requires secure and easy access to your account. Breezeline provides a platform where customers can log in to manage subscriptions, view billing information, update preferences, and troubleshoot issues. Having proper knowledge of how to log in and manage your Breezeline account ensures seamless service and helps you stay in control of your subscriptions.
 
+.. image:: login-now.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/
+
 This article provides a step-by-step guide on creating a Breezeline account, logging in, managing your services, troubleshooting common issues, and maintaining account security.
 
 What is Breezeline
